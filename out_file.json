@@ -1,0 +1,24 @@
+{
+    "name": "hussien shawer",
+    "age": "25",
+    "email": "hussien@gmail.com",
+    "skills": [
+        "Python",
+        "AI",
+        "Machine Learning"
+    ],
+    "address": {
+        "city": "Cairo",
+        "street": "123 Nile St"
+    },
+    "projects": [
+        {
+            "title": "Smart Store",
+            "year": "2023"
+        },
+        {
+            "title": "Face Recognition",
+            "year": "2024"
+        }
+    ]
+}
